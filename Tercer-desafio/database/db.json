@@ -1,0 +1,82 @@
+[
+    {
+      "title": "Botella 1",
+      "price": 101,
+      "thumbnail": "url",
+      "code": 1,
+      "stock": 10,
+      "id": 1
+    },
+    {
+      "title": "Botella 2",
+      "price": 102,
+      "thumbnail": "url",
+      "code": 2,
+      "stock": 10,
+      "id": 2
+    },
+    {
+      "title": "Botella 3",
+      "price": 103,
+      "thumbnail": "url",
+      "code": 3,
+      "stock": 111140,
+      "id": 3
+    },
+    {
+      "title": "Botella 4",
+      "price": 103,
+      "thumbnail": "url",
+      "code": 4,
+      "stock": 22,
+      "id": 4
+    },
+    {
+      "title": "Botella 5",
+      "price": 103,
+      "thumbnail": "url",
+      "code": 4,
+      "stock": 22,
+      "id": 5
+    },
+    {
+      "title": "Botella 6",
+      "price": 103,
+      "thumbnail": "url",
+      "code": 4,
+      "stock": 22,
+      "id": 6
+    },
+    {
+      "title": "Botella 7",
+      "price": 103,
+      "thumbnail": "url",
+      "code": 4,
+      "stock": 22,
+      "id": 7
+    },
+    {
+      "title": "Botella 8",
+      "price": 103,
+      "thumbnail": "url",
+      "code": 4,
+      "stock": 22,
+      "id": 8
+    },
+    {
+      "title": "Botella 9",
+      "price": 103,
+      "thumbnail": "url",
+      "code": 4,
+      "stock": 22,
+      "id": 9
+    },
+    {
+      "title": "Botella 10",
+      "price": 103,
+      "thumbnail": "url",
+      "code": 4,
+      "stock": 22,
+      "id": 10
+    }
+  ]
